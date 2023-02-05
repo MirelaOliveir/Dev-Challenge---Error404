@@ -26,17 +26,13 @@
 
 ## Table of Contents
 
-- [Overview](#overview)
-  - [Built With](#built-with)
-- [Features](#features)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+-A simple static page for error 404 - Page not Found.
 
 <!-- OVERVIEW -->
 
 ## Overview
 
-![screenshot](https://github.com/MirelaOliveir)
+![screenshot](https://print.png)
 
 The page was made with only HTMl and CSS, but I also used sass to process the whole css. I mostly used FlexBox and some Media Queries to make it responsive.
 
