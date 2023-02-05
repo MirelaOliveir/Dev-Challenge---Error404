@@ -26,7 +26,11 @@
 
 ## Table of Contents
 
--A simple static page for error 404 - Page not Found.
+- [Overview](#overview)
+  - [Built With](#built-with)
+- [Features](#features)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 

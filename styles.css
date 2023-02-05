@@ -39,6 +39,11 @@ section.section {
     padding: 0;
   }
 }
+@media (max-width: 870px) {
+  section.section {
+    margin-top: 5rem;
+  }
+}
 
 span {
   font-size: 1.2rem;
