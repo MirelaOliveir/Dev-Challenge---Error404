@@ -32,7 +32,7 @@
 
 ## Overview
 
-![screenshot](https://print.png)
+![screenshot](print.png)
 
 The page was made with only HTMl and CSS, but I also used sass to process the whole css. I mostly used FlexBox and some Media Queries to make it responsive.
 
